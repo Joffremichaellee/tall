@@ -9,10 +9,8 @@
 @import 'additional-styles/toggle-switch.css';
 @import 'additional-styles/flatpickr.css';
 @import 'additional-styles/theme.css';
-@import 'additional-styles/styleforms.css';
 
 @import 'tailwindcss/utilities';
-
 
 /* See Alpine.js: https://github.com/alpinejs/alpine#x-cloak */
 [x-cloak=""] {
